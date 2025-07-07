@@ -46,11 +46,6 @@ This app works best with the official Kaggle dataset:
 
 🔗 Download StudentsPerformance.csv
 
-📸 Screenshot
-<img width="1710" alt="chatwithAI" src="https://github.com/user-attachments/assets/50424641-af38-4977-9a90-85d705d81276" />
-
-
-
 👤 Author
 Built by @danielpinto-developer
 🌐 Portfolio: danielpinto-developer.com
